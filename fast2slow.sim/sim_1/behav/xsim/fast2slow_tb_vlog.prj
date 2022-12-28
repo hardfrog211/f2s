@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../fast2slow.srcs/sources_1/new/fast2slow_top.v" \
+"../../../../fast2slow.srcs/sim_1/new/fast2slow_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

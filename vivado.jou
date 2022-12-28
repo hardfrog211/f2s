@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Wed Dec 28 15:14:37 2022
+# Process ID: 14248
+# Current directory: D:/my fpga/fast2slow
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23764 D:\my fpga\fast2slow\fast2slow.xpr
+# Log file: D:/my fpga/fast2slow/vivado.log
+# Journal file: D:/my fpga/fast2slow\vivado.jou
+# Running On: bzqcomputer, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 12, Host memory: 16794 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/my fpga/fast2slow/fast2slow.xpr}
+update_compile_order -fileset sources_1
